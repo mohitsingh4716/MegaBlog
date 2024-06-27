@@ -11,4 +11,6 @@ Currently, two official plugins are available:
 # Appwrite backend for project
  - .env updated
  - Build Authentication services
+ - DataBase, file Upload, and custom Queries
+ 
  
